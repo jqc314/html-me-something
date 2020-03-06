@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(229, 255, 0);
+}
+
+.blue-p {
+  color: rgba(10, 10, 184, 0.842);
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#top {
+  font-size: 50px;
+  color: rgba(10, 10, 184, 0.842);
+  text-align: center;
+}
